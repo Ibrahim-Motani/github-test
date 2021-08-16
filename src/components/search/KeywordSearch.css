@@ -1,0 +1,9 @@
+.searchContainer__keyword {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.searchContainer__keyword > * {
+    margin-right: 1rem;
+}

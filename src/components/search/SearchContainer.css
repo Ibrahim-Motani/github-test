@@ -1,0 +1,9 @@
+.searchContainer {
+    width : 50%;
+    background-color: whitesmoke;
+    padding : 1rem;
+}
+
+.searchContainer__input {
+    width: 70%;
+}

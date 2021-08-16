@@ -1,0 +1,8 @@
+.reposContainer__list {
+    list-style: none;
+    font-size: 1rem;
+}
+
+.reposContainer__list > *:not(:last-child) {
+    margin-bottom: 1rem;
+}
